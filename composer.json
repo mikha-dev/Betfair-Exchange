@@ -1,5 +1,5 @@
 {
-  "name": "petercoles/betfair-exchange",
+  "name": "mikha-dev/betfair-exchange",
   "type": "library",
   "description": "Betfair Exchange API wrapper",
   "keywords": ["Betfair", "Betfair Exchange", "API"],
